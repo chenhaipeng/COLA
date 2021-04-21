@@ -25,6 +25,7 @@
         <module>craftsman-app</module>
         <module>craftsman-domain</module>
         <module>craftsman-infrastructure</module>
+        <module>craftsman-bigdata</module>
         <module>start</module>
     </modules>
 
